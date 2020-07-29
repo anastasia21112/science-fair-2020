@@ -1,0 +1,52 @@
+DP Count Cluster 1: 
+0.03076923076923077 
+6 
+ERP Count Cluster 1: 
+0.05128205128205128
+10
+HER2P Count Cluster 1: 
+0.3435897435897436
+67
+TNBC Count Cluster 1: 
+0.5692307692307692
+111
+
+DP Count Cluster 2:
+0.25
+25
+ERP Count Cluster 2:
+0.7
+70
+HER2P Count Cluster 2: 
+0.01
+1
+TNBC Count Cluster 2: 
+0.03
+3
+
+DP Count Cluster 3:
+0.0
+0
+ERP Count Cluster 3:
+0.0
+0
+HER2P Count Cluster 3:
+1.0
+76
+TNBC Count Cluster 3:
+0.0
+0
+
+DP Count Cluster 4:
+0.410958904109589
+60
+ERP Count Cluster 4:
+0.00684931506849315
+1
+HER2P Count Cluster 4:
+0.1095890410958904
+16
+TNBC Count Cluster 4:
+0.4657534246575342
+68
+

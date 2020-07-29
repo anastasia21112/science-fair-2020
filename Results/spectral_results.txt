@@ -1,0 +1,30 @@
+G1 Count Cluster 1: 
+0.5909090909090909 
+65 
+G2M Count Cluster 1: 
+0.0
+0
+S Count Cluster 1: 
+0.4
+44
+
+G1 Count Cluster 2:
+0.0
+0
+G2M Count Cluster 2:
+0.7987012987012987
+123
+S Count Cluster 2: 
+0.19480519480519481
+30
+
+G1 Count Cluster 3:
+0.5911602209944752
+214
+G2M Count Cluster 3:
+0.03038674033149171
+11
+S Count Cluster 3:
+0.3756906077348066
+136
+
