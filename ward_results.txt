@@ -1,52 +1,12 @@
-DP Count Cluster 1: 
-0.366120218579235 
-67 
-ERP Count Cluster 1: 
-0.060109289617486336
-11
-HER2P Count Cluster 1: 
-0.11475409836065574
-21
-TNBC Count Cluster 1: 
-0.45901639344262296
-84
-
-DP Count Cluster 2:
-0.0
-0
-ERP Count Cluster 2:
-0.0
-0
-HER2P Count Cluster 2: 
-0.3987341772151899
-63
-TNBC Count Cluster 2: 
-0.6012658227848101
-95
-
-DP Count Cluster 3:
-0.0
-0
-ERP Count Cluster 3:
-0.20833333333333334
-20
-HER2P Count Cluster 3:
-0.7916666666666666
-76
-TNBC Count Cluster 3:
-0.0
-0
-
-DP Count Cluster 4:
-0.3125
-25
-ERP Count Cluster 4:
-0.6375
-51
-HER2P Count Cluster 4:
-0.0125
-1
-TNBC Count Cluster 4:
-0.0375
-3
-
+Tumor Count Cluster 1: 
+0.8396739130434783 
+309 
+nonTumor Count Cluster 1: 
+0.16032608695652173
+59
+Tumor Count Cluster 2: 
+0.04697986577181208 
+7 
+nonTumor Count Cluster 2: 
+0.9530201342281879
+142

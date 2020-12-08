@@ -1,0 +1,12 @@
+Tumor Count Cluster 1: 
+0.8814814814814815 
+119 
+nonTumor Count Cluster 1: 
+0.11851851851851852
+16
+Tumor Count Cluster 2: 
+0.8230088495575221 
+93 
+nonTumor Count Cluster 2: 
+0.17699115044247787
+20
